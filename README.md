@@ -371,16 +371,6 @@ This is useful for:
 
 ---
 
-## 🖼️ System Demo
-
-Screenshots and demonstrations of the completed application are available in:
-
-**[View `images/system_demo`](./images/system_demo)**
-
-The folder contains the visual documentation of the User Management Portal, including its dashboard and CRUD functionality.
-
----
-
 ## 📌 Summary
 
 The PHP User Management Portal is a complete local CRUD application that combines a responsive Bootstrap interface with PHP 8 and a MySQL/MariaDB database running through XAMPP.
