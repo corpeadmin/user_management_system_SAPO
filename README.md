@@ -1,6 +1,6 @@
 # PHP User Management Portal
-example only
 ![System Demo Screenshots](./images/system_demo.png)   
+image example only.
 A modern, responsive User Management & Authentication Portal built with **PHP 8** and **MySQL / MariaDB**, styled with **Bootstrap 5.3** and **Bootstrap Icons**.
 
 ---
